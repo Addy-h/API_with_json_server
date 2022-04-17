@@ -1,0 +1,68 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "firstname": "Addy Q",
+      "lastname": "Josh",
+      "email": "addy@gmail.com",
+      "age": 50,
+      "companyid": "1"
+    },
+    {
+      "id": "3",
+      "firstname": "Josh b",
+      "lastname": "B",
+      "email": "ybm@gmail.com",
+      "age": 25,
+      "companyid": "3"
+    },
+    {
+      "firstname": "angel",
+      "lastname": "mine",
+      "age": 35,
+      "email": "angel@ gmail.com",
+      "company": "3",
+      "id": "pO1WDOT"
+    },
+    {
+      "firstname": "lana",
+      "lastname": "Queen",
+      "age": 2,
+      "email": "lana@ gmail.com",
+      "company": "100",
+      "id": "FFSKKWn"
+    },
+    {
+      "firstname": "lana",
+      "lastname": "Queen",
+      "age": 2,
+      "email": "lana@ gmail.com",
+      "company": "100",
+      "id": "gIEmXBn"
+    },
+    {
+      "id": "4",
+      "firstnama": "kamana",
+      "lastname": "dano",
+      "age": 30,
+      "company": "200"
+    }
+  ],
+  "companies": [
+    {
+      "id": "100",
+      "name": "Apple",
+      "description": "cfgvhjhbgvcdfghvfghgy"
+    },
+    {
+      "id": "200",
+      "name": "Microsoft",
+      "description": "cfgvhjhbgvcdfghvfghgy"
+    },
+    {
+      "id": "300",
+      "name": "Google",
+      "description": "cfgvhjhbgvcdfghvfghgy"
+    }
+  ]
+}
